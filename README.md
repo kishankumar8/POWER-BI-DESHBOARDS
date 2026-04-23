@@ -1,4 +1,4 @@
 # To-Do
 
-Ropo for i want to learn
+Ropo for i want to learn.
 
