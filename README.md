@@ -4,8 +4,10 @@ Ropository for i want to learn.
 
 
 #DSA
+->stack
+->string
 
 
 #DBMS
-
+->sql
 
