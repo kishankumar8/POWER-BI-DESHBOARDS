@@ -3,7 +3,7 @@
 Ropository for i want to learn.
 
 
-#DSA(data structure and algorithm)
+#DSA(Data structure and algorithm)
 
 
 ->stack
