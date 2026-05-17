@@ -1,6 +1,6 @@
 # To-Do
 
-Ropository for i want to learn.
+ this Ropository for i want to learn.
 
 
 #DSA(Data structure and algorithm)
