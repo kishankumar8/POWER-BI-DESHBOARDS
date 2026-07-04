@@ -9,7 +9,6 @@ This Ropository for i want to learn.
 ->stack
 
 
-->string
 
 
 #DBMS
