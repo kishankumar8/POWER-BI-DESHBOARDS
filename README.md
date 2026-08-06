@@ -5,4 +5,4 @@
 
 # Here I show :-
 
-completely show which graph is right to use and show all the graph perspective to use graph .
+To completely show which graph is right to use and show all the graph perspective to use graph .
