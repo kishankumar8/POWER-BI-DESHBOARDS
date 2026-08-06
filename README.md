@@ -42,7 +42,11 @@
 🎯 Gauge	Target vs Achievement	Target = ₹10L, Achieved = ₹8L
 🌳 Treemap	Hierarchy aur proportion	Sales by Category & Subcategory
 🎚️ Slicer	Report filter	Year, City, Category
-Easy Yaad Karne ka Formula
+
+
+
+
+ # Easy Yaad Karne ka Formula
 📊 Bar Chart
 
 👉 Comparison
