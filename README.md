@@ -26,7 +26,8 @@
 | 🌳 **Treemap**            | Hierarchy aur proportion                 | Sales by Category & Subcategory |
 | 🎚️ **Slicer**             | Report filter                            | Year, City, Category             |
 
-#
+
+# Easy charts to used
 
 	
 	
