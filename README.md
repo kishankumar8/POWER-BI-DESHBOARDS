@@ -28,7 +28,7 @@
 
 #
 
-	Cat
+	
 	
 📈 Line Chart	-Time ke saath trend dekhna ho	Monthly Sales 
 
