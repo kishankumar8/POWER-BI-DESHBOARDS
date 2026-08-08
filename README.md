@@ -27,7 +27,7 @@
 | 🎚️ **Slicer**             | Report filter                            | Year, City, Category             |
 
 
-# Easy charts to used
+# Easy charts to used :
 
 
 📈 Line Chart	-Time ke saath trend dekhna ho	Monthly Sales 
