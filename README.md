@@ -35,6 +35,7 @@
 🥧 Pie Chart	Percentage ya share dikhana ho	Market Share
 
 🍩 Donut Chart	Pie jaisa hi, center me value dikhani ho	Category Contribution
+
 📉 Area Chart	Trend + Volume dono dikhane ho	Monthly Revenue Growth
 📊 Stacked Bar/Column	Total ke saath category breakup	Sales by Month & Region
 📋 Table	Exact values dikhani ho	Customer Details
