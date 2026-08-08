@@ -29,8 +29,7 @@
 
 # Easy charts to used
 
-	
-	
+
 📈 Line Chart	-Time ke saath trend dekhna ho	Monthly Sales 
 
 🥧 Pie Chart	Percentage ya share dikhana ho	Market Share
