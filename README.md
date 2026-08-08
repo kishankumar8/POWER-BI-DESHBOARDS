@@ -32,7 +32,7 @@
 
 📈 Line Chart	 -> Time ke saath trend dekhna ho	Monthly Sales .
 
-🥧 Pie Chart	Percentage ya share dikhana ho	Market Share
+🥧 Pie Chart	Percentage ya share dikhana ho	Market Share .
 
 🍩 Donut Chart	Pie jaisa hi, center me value dikhani ho	Category Contribution
 
