@@ -41,6 +41,7 @@
 📊 Stacked Bar/Column	Total ke saath category breakup	Sales by Month & Region
 
 📋 Table	Exact values dikhani ho	Customer Details
+
 📑 Matrix	Excel Pivot Table jaisa analysis	Sales by Region & Product
 🔢 Card	Ek important KPI	Total Sales
 🧮 Multi-row Card	Multiple KPIs ek saath	Sales, Profit, Orders
