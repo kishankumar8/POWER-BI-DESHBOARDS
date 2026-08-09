@@ -45,6 +45,7 @@
 📑 Matrix	Excel Pivot Table jaisa analysis	Sales by Region & Product
 
 🔢 Card	Ek important KPI	Total Sales
+
 🧮 Multi-row Card	Multiple KPIs ek saath	Sales, Profit, Orders
 🌍 Map	Location-wise data	State-wise Sales
 🎯 Gauge	Target vs Achievement	Target = ₹10L, Achieved = ₹8L
