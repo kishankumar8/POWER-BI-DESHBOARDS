@@ -70,7 +70,7 @@ Employee Salary
 Department-wise Sales
 
 
-📈 Line Chart
+# 📈 Line Chart
 
 👉 Trend
 
