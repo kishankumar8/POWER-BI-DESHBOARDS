@@ -81,7 +81,7 @@ Daily Website Visitors
 Stock Price
 
 
-🥧 Pie Chart
+# 🥧 Pie Chart
 
 👉 Percentage
 
