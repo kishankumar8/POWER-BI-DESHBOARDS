@@ -87,7 +87,7 @@ Product Share
 
 Agar categories 5–6 se zyada ho, to Pie Chart avoid karo.
 
-📋 Table
+#  📋 Table
 
 👉 Exact numbers
 
