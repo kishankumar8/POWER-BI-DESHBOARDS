@@ -68,6 +68,8 @@
 Product A vs Product B
 Employee Salary
 Department-wise Sales
+
+
 📈 Line Chart
 
 👉 Trend
