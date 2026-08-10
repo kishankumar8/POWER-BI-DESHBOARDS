@@ -170,6 +170,7 @@ To dashboard me tum ye visuals use kar sakte ho:
 
 
 🔢 Card → Total Sales, Total Profit, Total Orders
+
 📈 Line Chart → Monthly Sales Trend
 📊 Bar Chart → Sales by Product
 🥧 Pie/Donut Chart → Sales by Category
