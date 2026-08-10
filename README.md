@@ -7,6 +7,7 @@
 
 -> To completely show which graph is right to use and show all the graph perspective to use graph .
 
+
 # Uses of chart :-
 
 | Visual                    | Kab Use Karte Hain                       | Example                         |
