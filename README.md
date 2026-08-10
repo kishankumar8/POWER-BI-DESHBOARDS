@@ -97,7 +97,7 @@ Agar categories 5–6 se zyada ho, to Pie Chart avoid karo.
 
 Jab user ko precise values dekhni ho.
 
-🌍 Map
+# 🌍 Map
 
 👉 Location-based data
 
