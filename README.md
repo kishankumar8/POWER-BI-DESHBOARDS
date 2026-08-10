@@ -125,6 +125,7 @@ Total Sales
 Total Profit
 Total Customers
 Total Orders
+
 🌳 Treemap
 
 👉 Hierarchy + Share
