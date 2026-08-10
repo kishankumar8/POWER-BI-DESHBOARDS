@@ -105,7 +105,7 @@ India State-wise Sales
 Country-wise Customers
 
 
-🎯 Gauge
+# 🎯 Gauge
 
 👉 Target Tracking
 
