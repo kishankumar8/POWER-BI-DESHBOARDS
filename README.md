@@ -61,7 +61,7 @@
 
 
 
- # Easy Yaad Karne ka Formula
+ # Easy Yaad Karne ka Formula 😊
  
 # 📊 Bar Chart
 
