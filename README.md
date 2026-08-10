@@ -128,7 +128,7 @@ Total Customers
 Total Orders
 
 
-🌳 Treemap
+# 🌳 Treemap
 
 👉 Hierarchy + Share
 
