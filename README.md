@@ -190,10 +190,16 @@ To dashboard me tum ye visuals use kar sakte ho:
 Compare → 📊 Bar Chart
 
 Trend over time → 📈 Line Chart
+
 Percentage / Share → 🥧 Pie / Donut
+
 Location → 🌍 Map
+
 Single KPI → 🔢 Card
+
 Target vs Actual → 🎯 Gauge
+
 Detailed Records → 📋 Table
+
 Filter → 🎚️ Slicer
 
