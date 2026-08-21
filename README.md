@@ -172,14 +172,23 @@ To dashboard me tum ye visuals use kar sakte ho:
 🔢 Card → Total Sales, Total Profit, Total Orders .
 
 📈 Line Chart → Monthly Sales Trend
+
 📊 Bar Chart → Sales by Product
+
 🥧 Pie/Donut Chart → Sales by Category
+
 🌍 Map → City-wise Sales
+
 🌳 Treemap → Category → Product
+
 📋 Table → Customer Details
+
 🎚️ Slicer → Year, City, Category
-Ek simple trick yaad rakhna:
+
+# Ek simple trick yaad rakhna:
+
 Compare → 📊 Bar Chart
+
 Trend over time → 📈 Line Chart
 Percentage / Share → 🥧 Pie / Donut
 Location → 🌍 Map
